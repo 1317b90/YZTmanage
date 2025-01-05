@@ -1,0 +1,5 @@
+{
+    "url": "https://test.g4b.cn/rpa/api",
+    "public": "https://test.g4b.cn/rpa/api",
+    "local": "http://127.0.0.1:8080"
+}
